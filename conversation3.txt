@@ -1,0 +1,94 @@
+user: what can i eat for inflammation?
+bot: 
+1. Whole foods
+2. Plant protein
+3. Legumes
+4. Lentils  
+5. Nuts
+6. Seeds
+7. Fish
+8. Fruit  
+9. Vegetables
+10. Herbs
+11. Spices
+
+
+user: what i should avoid for inflammation
+bot: 
+1. Gluten
+2. Dairy
+
+
+user: what else
+bot: 
+I don't have enough information to provide a recommendation.
+
+
+user: what foods to be taken for brain health
+bot: 
+1. Nuts
+2. Seeds  
+3. Fish
+4. Eggs
+5. Berries
+6. Vegetables
+
+
+user: which foods are consumed to maintain brain health
+bot: 
+1. Nuts
+2. Seeds  
+3. Fish
+4. Eggs
+5. Berries
+6. Vegetables
+
+
+user: what can cure inflammation
+bot: 
+1. Anti-inflammatory diet
+2. Plant-based foods  
+3. Whole foods
+4. Fish oil
+5. Probiotics
+6. Vitamin D
+7. Magnesium
+
+
+user: what can help to reduce inflammation
+bot: 
+1. Fish oil  
+2. Probiotics
+3. Vitamin D
+4. CoQ10 
+5. Magnesium
+6. Green lipped mussel
+
+
+user: which can help to reduce inflammation
+bot: 
+1. Vegetables
+2. Fruits
+3. Nuts
+4. Seeds  
+5. Herbs
+6. Spices
+7. Legumes
+8. Grains
+9. Fish
+
+
+user: how can i improve brain health
+bot: 
+1. Nuts seeds
+2. Fish oil olive oil
+3. Whole grains  
+4. Choline foods
+5. Vitamin E foods
+6. Vitamin B foods
+7. Combination interventions
+8. Fish oil
+9. Ketogenic diet
+10. MIND Mediterranean diets
+
+
